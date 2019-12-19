@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AWSSDK",
+	"Description": "using aws sdk",
+	"Category": "Other",
+	"CreatedBy": "mechamogera",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AWSSDK",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
